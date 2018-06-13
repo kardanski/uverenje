@@ -1,0 +1,37 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="402" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g display="inline" id="layer1">
+   <g stroke="#a9a9a9" id="g8191">
+    <path fill="none" fill-rule="evenodd" stroke="#a9a9a9" stroke-width="1px" id="path1872" d="m20,0l0,400"/>
+    <use stroke="#a9a9a9" xlink:href="#path1872" height="400" width="400" y="0" x="20" id="use8185"/>
+    <use stroke="#a9a9a9" xlink:href="#path1872" height="400" width="400" y="0" x="40" id="use8187"/>
+    <use stroke="#a9a9a9" xlink:href="#path1872" height="400" width="400" y="0" x="60" id="use8189"/>
+   </g>
+   <use xlink:href="#g8191" height="400" width="400" y="0" x="100" id="use8197"/>
+   <use xlink:href="#g8191" height="400" width="400" y="0" x="200" id="use8199"/>
+   <use xlink:href="#g8191" height="400" width="400" y="0" x="300" id="use8201"/>
+   <use xlink:href="#g8191" height="400" width="400" y="0" x="0" id="use8203" transform="matrix(0,1,-1,0,400,0)"/>
+   <use xlink:href="#use8203" height="400" width="400" y="100" x="0" id="use8205"/>
+   <use xlink:href="#use8203" height="400" width="400" y="200" x="0" id="use8207"/>
+   <use xlink:href="#use8203" height="400" width="400" y="300" x="0" id="use8209"/>
+  </g>
+  <g display="inline" id="layer2">
+   <g stroke="#366" id="g8225">
+    <path fill="none" fill-rule="evenodd" stroke="#366" stroke-width="1px" id="path8215" d="m100,0l0,400"/>
+    <use stroke="#366" xlink:href="#path8215" height="400" width="400" y="0" x="100" id="use8217"/>
+    <use stroke="#366" xlink:href="#path8215" height="400" width="400" y="0" x="200" id="use8219"/>
+   </g>
+   <use xlink:href="#g8225" height="400" width="400" y="0" x="0" id="use8232" transform="matrix(0,1,-1,0,400,0)"/>
+  </g>
+  <rect stroke-width="3" fill="none" stroke="#366" id="rect10078" y="0.5" x="0.5" height="400" width="400"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="381.276962" x2="200.250023" y1="19.773083" x1="200.250023" stroke-opacity="null" stroke-width="NaN" stroke="#366" fill="none"/>
+  <line transform="rotate(90, 200.583, 199.883)" stroke-width="3" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="199.883286" x2="381.333343" y1="199.883264" x1="19.833323" stroke="#ff0000" fill="none"/>
+  <line stroke-width="3" stroke-linecap="null" stroke-linejoin="null" id="svg_1" y2="199.883132" x2="381.333305" y1="199.883111" x1="19.833285" stroke="#ff0000" fill="none"/>
+ </g>
+</svg>

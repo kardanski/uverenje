@@ -1,0 +1,78 @@
+
+	body {
+		margin:0;
+		padding:0;
+		background-color:#242A2D;
+		}
+	div {
+		
+		height: 256mm;
+		width: 385mm;
+		border-style:dashed;
+		border-width:1px;
+		border-color: white;
+		margin-right:auto;
+		margin-left:auto;
+		margin-top:20px;
+		margin-bottom:20px;
+		padding:0;
+		background-size: contain;
+		
+		}
+	
+	textarea{
+	position:absolute;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	font-family:"Input Serif Compressed";
+	resize:none;
+	color:yellow;
+	text-align: center;
+	background-color:transparent;
+	border-style:dotted;
+	border-width:0 1px 0 1px;
+	border-color:#FFE391;
+	
+
+}
+	textarea::-moz-placeholder {  /* Firefox 19+ */
+color: #36FF80!important  }
+
+	textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #36FF80!important;
+  
+}
+
+	.krupno{
+	font-size: 32px;
+	}
+	
+	.ime{
+	font-size: 26px;
+	}
+	.srednje{
+	font-size: 18px;
+	}
+	.sitno{
+	font-size: 12px;
+	}
+	.uskiFont{
+	font-size: 12px;
+	font-family:'Arial Narrow'!important;
+	}
+	
+	button{
+		display:inline;
+		height:10mm;
+		width:10mm;
+		background-size:cover;
+		padding:0px;
+		margin:0px 20px 0px 20px;
+		border-style: none;
+		background-color:transparent;
+		}
+
+
+}
+

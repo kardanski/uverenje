@@ -1,0 +1,39 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+ </g>
+ <g>
+  <title>background</title>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g id="svg_25">
+   <g transform="matrix(0.333333, 0, 0, 0.333333, 0, 0)" id="svg_22">
+    <title>background</title>
+    <rect x="-1" y="-1" width="202" height="202" id="svg_20" fill="none"/>
+    <g transform="translate(213, 15) translate(0, 200)" id="svg_19" display="none">
+     <rect id="svg_23" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g transform="matrix(0.937211, 0, 0, 0.943706, -181.163, -182.112)" id="svg_24">
+    <title fill="#ff0000">Layer 1</title>
+    <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+    <g id="svg_17" transform="matrix(0.888889, 0, 0, 0.888889, 0, 0)">
+     <title fill="#ff0000">background</title>
+    </g>
+    <g id="svg_12" transform="matrix(1.4414, 0, 0, 1.46032, 19.5497, 0.642857)">
+     <title fill="#ff0000">Layer 1</title>
+     <g id="svg_13">
+      <g transform="matrix(5.22187, 0, 0, 4.25, -174.65, -128)" id="svg_16"/>
+      <path stroke-width="2" id="svg_15" fill="#ff0000" d="m193.40892,213.494415c-25.91095,0 -46.996826,-17.161499 -46.996826,-38.25s21.085876,-38.25 46.996826,-38.25c25.91095,0 46.991638,17.161499 46.991638,38.25s-21.080688,38.25 -46.991638,38.25zm0,-68c-20.156433,0 -36.55307,13.345001 -36.55307,29.75s16.396637,29.75 36.55307,29.75c20.151245,0 36.547913,-13.344986 36.547913,-29.75s-16.391479,-29.75 -36.547913,-29.75z"/>
+      <path stroke-width="2" id="svg_14" fill="#ff0000" d="m263.063507,272.994415l-136.990616,0l6.208801,-45.500488l29.012726,-9.447784l3.885071,7.896545l-23.205994,7.552216l-4.234955,30.999512l113.659256,0l-4.234924,-30.999512l-23.205978,-7.552216l3.885071,-7.896545l29.01268,9.447784l6.208862,45.500488z"/>
+     </g>
+    </g>
+   </g>
+   <rect fill="none" id="canvas_background" height="202" width="202" y="-1" x="-1"/>
+  </g>
+ </g>
+</svg>
