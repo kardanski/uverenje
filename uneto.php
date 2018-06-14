@@ -48,7 +48,7 @@
 	
 		<h1><a>Unos podataka</a></h1>
 		<br>
-			<?php require_once('navigacija.php') ?>
+			<?php require_once('navigacija.php'); ?>
 			
 					<div class="form_description">
 					    <br>
