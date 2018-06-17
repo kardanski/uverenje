@@ -1,0 +1,93 @@
+
+    body {
+        margin:0;
+        padding:0;
+        background-color:#242A2D;
+        }
+    div {
+        
+        height: 256mm;
+        width: 385mm;
+        border-style:dashed;
+        border-width:1px;
+        border-color: white;
+        margin-right:auto;
+        margin-left:auto;
+        margin-top:20px;
+        margin-bottom:20px;
+        padding:0;
+        background-size: contain;
+        
+        }
+    
+    textarea{
+    position:absolute;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    font-family:"Ristretto Pro Rg";
+    
+    resize:none;
+    color:yellow;
+    text-align: center;
+    background-color:transparent;
+    border-style:dotted;
+    border-width:0 1px 0 1px;
+    border-color:#FFE391;
+    white-space: pre-wrap;
+
+}
+
+
+    .krupno{
+    font-size: 36px;
+    letter-spacing:3px;
+    }
+    
+    .ime{
+    font-size: 36px;
+    letter-spacing:3px;
+    }
+    .srednje{
+    font-size: 24px;
+    letter-spacing:3px;
+    }
+    .sitno{
+    font-size: 12px;
+    }
+    .uskiFont{
+    font-size: 22px;
+    letter-spacing:0px;
+    
+
+    }
+    
+    .kompetencije{
+    font-size: 11px;
+    letter-spacing: 0px;
+    text-align: justify;/* ispod pocinje dodatak za justify*/
+  /*resize: none;
+    white-space: pre-line;
+    -moz-text-align-last: left;
+    text-align-last: left;*/
+ /*Ovo gore radi justify teksta u textarea*/
+    }
+    button{
+        display:inline;
+        height:10mm;
+        width:10mm;
+        background-size:cover;
+        padding:0px;
+        margin:0px 20px 0px 20px;
+        background-color:transparent;
+        border-style: 2px;
+        border-radius:2px;
+        border-color: yellow;
+        }
+
+    button:hover {
+        background-color:orange;
+        }
+    button:active {
+        background-color:yellow;
+
