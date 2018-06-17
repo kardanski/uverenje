@@ -1,7 +1,7 @@
 <?php
-$db='stiropor_drup998';
-$hn='188.40.95.144';
-$un='';
-$pw='';
+$db='SkolskaBaza';
+$hn='localhost';
+$un='root';
+$pw='ikalikal';
 
 ?>
